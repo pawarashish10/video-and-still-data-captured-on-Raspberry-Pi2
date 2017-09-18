@@ -1,0 +1,32 @@
+raspivid Camera App v1.3.12
+
+Width 1920, Height 1080, filename asp.mp4
+bitrate 17000000, framerate 30, time delay 10000
+H264 Profile high
+H264 Quantisation level 0, Inline headers No
+H264 Intra refresh type (null), period -1
+Wait method : Simple capture
+Initial state 'record'
+
+
+Preview Yes, Full screen Yes
+Preview window 0,0,1024,768
+Opacity 255
+Sharpness 0, Contrast 0, Brightness 50
+Saturation 0, ISO 0, Video Stabilisation No, Exposure compensation 0
+Exposure Mode 'auto', AWB Mode 'auto', Image Effect 'none'
+Metering Mode 'average', Colour Effect Enabled No with U = 128, V = 128
+Rotation 0, hflip No, vflip No
+ROI x 0.000000, y 0.000000, w 1.000000 h 1.000000
+Camera component done
+Encoder component done
+Starting component connection stage
+Connecting camera preview port to preview input port
+Starting video preview
+Connecting camera stills port to encoder input port
+Opening output file "asp.mp4"
+Enabling encoder output port
+Starting video capture
+Finished capture
+Closing down
+Close down completed, all components disconnected, disabled and destroyed
